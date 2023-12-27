@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58c4b755-ba87-4e9b-9a03-caa72d9a16fe" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HomeWork_Py47/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/HomeWork_Py47/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stepik_HomeWorks_4_6_ Matrix_Part_3_Task_10/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stepik_HomeWorks_4_6_Matrix_Part_3_Task_10" beforeDir="false" afterPath="$PROJECT_DIR$/Stepik_HomeWorks_4_6_Matrix_Part_3_Task_10" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stepik_HomeWorks_4_6_Matrix_Part_3_Task_10/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Stepik_HomeWorks_4_6_Matrix_Part_3_Task_10/readme.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +26,7 @@
         <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/HomeWork_Py47" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -45,7 +42,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "Decorator__Time",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Acer/PycharmProjects/pythonProject2/HomeWork_Py47",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -111,6 +108,7 @@
       <workItem from="1702047999995" duration="243000" />
       <workItem from="1702048338984" duration="20245000" />
       <workItem from="1702297921623" duration="10827000" />
+      <workItem from="1703684757976" duration="325000" />
     </task>
     <servers />
   </component>
