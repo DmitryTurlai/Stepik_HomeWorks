@@ -1,16 +1,21 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
-
-
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
-
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+n = int(input())
+my_dict = {}
+correct = 0
+for i in range(n):
+    input_string = input()
+    key, value = input_string.split(':', 1)
+    key = key.strip()
+    value = value.strip()
+    if value == 'Correct':
+        correct += 1
+        my_dict[key] = value
+my_set_correct = set()
+for key, value in my_dict.items():
+    if value == 'Correct':
+        my_set_correct.add(key)
+if correct == 0:
+    print('Вы можете стать первым, кто решит эту задачу')
+else:
+    print(f'Верно решили {len(my_dict)} учащихся')
+    proc = round(((correct / n) * 100) + 0.1)
+    print(f'Из всех попыток {proc}% верных')
